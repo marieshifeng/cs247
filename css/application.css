@@ -3,18 +3,15 @@
     -moz-box-sizing: border-box;
     box-sizing: border-box
 }
-
 .header {
     text-align: center;
 }
-
 .header img.photo {
     -webkit-border-radius: 200px;
     -moz-border-radius: 200px;
     border-radius: 200px;
     width: 80%;
 }
-
 .row {
     width:940px;
     max-width:100%;
@@ -28,15 +25,12 @@
     padding:0 15px;
     position:relative
 }
-
 .row .standard {
     width:33.33333%
 }
-
 .row .half {
     width:50%
 }
-
 #largeImgPanel {
     text-align: center;
     visibility: hidden;
