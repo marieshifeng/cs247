@@ -41,13 +41,13 @@
       ================================================== -->
       <header class="container">
          <hgroup>
-            <h1><a href="index.htm"></a></h1>
+            <h1><a href="index.php"></a></h1>
             <h3>CS247: Everyday Rich Social Communication</h3>
          </hgroup>
          <nav id="nav-wrap" class="cf">
             <ul id="menu">
-	            <li class="current"><a href="index.htm">Home</a></li>
-	            <li><a href="about.htm">About</a></li>
+	            <li class="current"><a href="index.php">Home</a></li>
+	            <li><a href="about.php">About</a></li>
             </ul> <!-- end #menu -->
          </nav>
       </header>
@@ -55,7 +55,7 @@
       ================================================== -->
       <article id="latest-article" class="container">
          <h2><a href="#">Milestone One</a></h2>
-         <p class="post-info">by <span><a href="about.htm">Team One</a></span></p>
+         <p class="post-info">by <span><a href="about.php">Team One</a></span></p>
          <div class="dcontent cf">
             <div class="post-meta">
                <p class="dateinfo">17

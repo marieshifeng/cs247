@@ -24,13 +24,13 @@
       ================================================== -->
       <header class="container">
          <hgroup>
-            <h1><a href="index.htm"></a></h1>
+            <h1><a href="index.php"></a></h1>
             <h3>CS247: Everyday Rich Social Communication</h3>
          </hgroup>
          <nav id="nav-wrap" class="cf">
             <ul id="menu">
-	            <li><a href="index.htm">Home</a></li>
-	            <li class="current"><a href="about.htm">About</a></li>
+	            <li><a href="index.php">Home</a></li>
+	            <li class="current"><a href="about.php">About</a></li>
             </ul> <!-- end #menu -->
          </nav>
       </header>
