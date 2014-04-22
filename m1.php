@@ -49,7 +49,6 @@
                <li><a href="index.php">Home</a></li>
                <li class="current"><a href="m1.php">Milestone 1</a></li>
                <li><a href="m2.php">Milestone 2</a></li>
-               <li><a href="about.php">About</a></li>
             </ul> <!-- end #menu -->
          </nav>
       </header>
