@@ -56,7 +56,7 @@
       ================================================== -->
       <article id="latest-article" class="container">
          <h2><a href="#">Milestone One</a></h2>
-         <p class="post-info">by <span><a href="about.php">Team One</a></span></p>
+         <p class="post-info">by <span><a href="index.php">Team One</a></span></p>
          <div class="dcontent cf">
             <div class="post-meta">
                <p class="dateinfo">17

@@ -31,6 +31,9 @@
 .row .half {
     width:50%
 }
+.row .full {
+    width:100%
+}
 #largeImgPanel {
     text-align: center;
     visibility: hidden;
