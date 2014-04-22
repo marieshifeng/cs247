@@ -14,6 +14,9 @@
    <link rel="stylesheet" href="css/base.css">
    <link rel="stylesheet" href="css/layout.css">
    <link rel="stylesheet" href="css/application.css">
+   <link rel="icon" 
+      type="image/png" 
+      href="/images/favicon.png" />
    <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
    <![endif]-->
@@ -59,34 +62,12 @@
          <p class="post-info">by <span><a href="index.php">Team One</a></span></p>
          <div class="dcontent cf">
             <div class="post-meta">
-               <p class="dateinfo">17
+               <p class="dateinfo">24
                   <span class="dmonth">April</span>
                   <span class="dyear">2014</span>
                </p>
             </div>
             <h3>Storyboarding</h3>
-            <p>Like the classic racing film, our brainstorm was fast and furious. We started the process by discussing some
-            common interests including social activism, creative expression, getting under-represented populations into
-            STEM, kids, parents, and more. We continued to brainstorm at this high-level for a bit, shown with the purple
-            ideas below. In the second image, you can also see connections we drew between ideas or connections to
-            refinements of ideas as we continued to brainstorm. Our brainstorm progress can be tracked by the layered
-            colors from purple, blue, red, light green, black, to dark green.
-            </p><p>
-            As we worked to choose three ideas to submit, we started brainstorming more specific features and implementations of various ideas, to see how rich the areas were. For example, here are those ideas for <a href="#idea_two">This is my story</a>:
-         <ul>
-            <ul>Standard ‘record your story’ (audio, video, or text)</ul>
-            <ul>Unique ‘photobooth’ virtual setup</ul>
-            <ul>Structured format/script for story to prompt the user to think about how she overcame the event</ul>
-            <ul>Mix-and-match parts from different stories to create shared experiences</ul>
-            <ul>Matching new victims to users who have already overcome a similar experience</ul>
-            <ul>Instant help, request help, site connects user quickly to help (maybe even by calling them)</ul>
-            <ul>Reading, listening to, watching other people’s stories</ul>
-            <ul>Other creative outlets: paintings about your feelings, writing letters to the perpetrator (don’t necessarily send), writing the story from another perspective</ul>
-            <ul>Reflecting on own story</ul>
-            <ul>Interactive story to facilitate growth: drag words out of story as you grow, cross out words - a very dynamic visual of the writing process that also reinforces your own growth (i.e. powerful moment of dragging out the line “Was it something I did that caused this?”)</ul>
-            <ul>Floating before and after word maps i.e. on left side, show trending words for ‘new’ stories; on right side, show trending words in older, edited stories to show difference - give new victims hope about overcoming it</ul>
-         </ul>
-         </p>
          <p>
             <div class="header row">
                <br/>
@@ -121,8 +102,7 @@
                   <img id="largeImg" style="height: 100%; margin: 0; padding: 0;" />
                </div>
             </div>
-
-    
+         </p>
          </div>
       </article>
    <!-- footer

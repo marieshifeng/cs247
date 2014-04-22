@@ -14,6 +14,9 @@
    <link rel="stylesheet" href="css/base.css">
    <link rel="stylesheet" href="css/layout.css">
    <link rel="stylesheet" href="css/application.css">
+   <link rel="icon" 
+   type="image/png" 
+   href="/images/favicon.png" />
    <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
    <![endif]-->
