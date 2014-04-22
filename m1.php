@@ -5,18 +5,18 @@
 <head>
    <!--- Basic Page Needs
    ================================================== -->
-	<meta charset="utf-8">
-	<title>Team One</title>
-	<meta name="description" content="A website dedicated to our CS247 final project.">
-	<meta name="author" content="Marie, Sierra, Natasha">
-	<!-- CSS
+   <meta charset="utf-8">
+   <title>Team One</title>
+   <meta name="description" content="A website dedicated to our CS247 final project.">
+   <meta name="author" content="Marie, Sierra, Natasha">
+   <!-- CSS
    ================================================== -->
-	<link rel="stylesheet" href="css/base.css">
-	<link rel="stylesheet" href="css/layout.css">
+   <link rel="stylesheet" href="css/base.css">
+   <link rel="stylesheet" href="css/layout.css">
    <link rel="stylesheet" href="css/application.css">
-	<!--[if lt IE 9]>
-		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]-->
+   <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+   <![endif]-->
    <script type="text/javascript">
       function showImage(imgName) {
          document.getElementById('largeImg').src = imgName;
@@ -46,8 +46,10 @@
          </hgroup>
          <nav id="nav-wrap" class="cf">
             <ul id="menu">
-	            <li class="current"><a href="index.php">Home</a></li>
-	            <li><a href="about.php">About</a></li>
+               <li><a href="index.php">Home</a></li>
+               <li class="current"><a href="m1.php">Milestone 1</a></li>
+               <li><a href="m2.php">Milestone 2</a></li>
+               <li><a href="about.php">About</a></li>
             </ul> <!-- end #menu -->
          </nav>
       </header>
