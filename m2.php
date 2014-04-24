@@ -72,15 +72,14 @@
             <h3 class="ideas">Idea One</h3>
             <h4>Pass it on: a platform for creating teaching chains</h4>
             <p>
-               Designed as a supplement to classroom learning, a teaching chain is when students teach other students via live broadcast and then those students go on to teach more students.
-               We imagine the motivation to start when a student becomes confused with a topic in the classroom. The student then posts a request for a lesson in the topic on the platform. The platform
-               supports fellows students to respond positively to these requests and facilitates the creation of a small teaching circle. In this circle, the original 
-               student can learn via a brief lesson and then follow-up by re-teaching the original lesson (maybe in a new format) to re-confirm his learning. From these two lessons, we have the beginning of a teaching chain. 
-               Our storyboard conveys this interaction from classroom to platform to creation of teaching chains.
+               Designed as a supplement to classroom learning, a teaching chain is when students teach other students via live broadcast and then those students go on 
+               to teach more students.
             </p>
             <p>
-               We imagine the crux of the social communication to be in the small group when teaching occurs and there are innovative ways how to present material in a compelling manner. While we believe the idea of teaching chains is 
-               interesting and necessary, we believe online education is a beast of an interaction to try to facilitate (especially since there are many, many companies focused purely on solving it).
+               We imagine the crux of the social communication to be in the small group lessons where we would provide tools to present material in a compelling innovative
+               manner. While we believe the idea of teaching chains is interesting and necessary, we believe online education is a beast of an interaction to try to facilitate 
+               (especially since there are many, many companies focused purely on solving it). We have played with the idea of restricting the site to a particular subject, to 
+               allow us to design the appropriate tools - some ideas are math, physics, or more physical topics, like gardening or plumbing. Given the complexity of this task of providing tools for a great lesson, we might also choose to dive more deeply into the connection piece: how do you find the right teacher? How do you ensure you teach your own material clearly? How do you make that connection? Why are you compelled to teach, and not just learn?
             </p>
             <p>
                <div class="header row">
@@ -92,6 +91,7 @@
                   <div id="largeImgPanel" onclick="hideMe(this);">
                      <img id="largeImg" style="height: 100%; margin: 0; padding: 0;" />
                   </div>
+                  <h5>Marie gets us started on the storyboard.</h5>
                </div>
             </p>
             <p>
@@ -104,14 +104,19 @@
                   <div id="largeImgPanel" onclick="hideMe(this);">
                      <img id="largeImg" style="height: 100%; margin: 0; padding: 0;" />
                   </div>
+                  <h5>Final storyboard for Idea #1</h5>
+                  <h6>We debated and explored different different starting points, and decided that we wanted it to start when a student becomes confused with a topic in the classroom. The student then posts a request for a lesson in the topic on our platform. The platform allows a fellow student, teacher, or anyone else to offer a brief lesson around that topic, which other students could also join: a small teaching circle. In this circle, the original student can learn via a brief lesson and then follow-up by re-teaching the original lesson (maybe in a new format) to re-confirm his learning. From these two lessons, we have the beginning of a teaching chain. The final panel demonstrates that you can compare different approaches to teaching a topic, if you want to choose what works best for you as a student or in order to improve your teaching. 
+                  </h6>
                </div>
             </p>
+            <br/>
+            <br/>
 
             <!--IDEA TWO-->
             <h3 id="idea_two" class="ideas">Idea Two</h3>
                <h4>This is my story: a platform for overcoming negative experiences</h4>
             <p>
-               Designed to be a safe haven for women overcoming sexual assault, we imagine this platform to be a place to where women can come share their stories and connect over creating art together.
+               Designed to be a safe haven for women overcoming sexual assault, we imagine this platform to be a place to where women can come share their stories and connect over creating art together. There would likely be a moderator to approve new users who want to actively engage in the site and sign-up.
             </p>
             <p>
                <div class="header row">
@@ -122,6 +127,7 @@
                <div id="largeImgPanel" onclick="hideMe(this);">
                   <img id="largeImg" style="height: 100%; margin: 0; padding: 0;" />
                </div>
+               <h5>Getting started</h5>
             </p>
             <p>
                <div class="header row">
@@ -132,45 +138,52 @@
                <div id="largeImgPanel" onclick="hideMe(this);">
                   <img id="largeImg" style="height: 100%; margin: 0; padding: 0;" />
                </div>
+               <h5>Final storyboard for Idea #2</h5>
+               <h6>When Sally first joins the site, she records a story to share. At the time, this is all the site know about Sally, mirroring her own struggle with being defined by the story of her assault. Then Mary hears the story. Sally's story compells Mary to reach out and share her own pre-recorded story. From there, Mary and Sally can collaborate in an art therapy-like session online, in which there will also be an audio stream to allow conversation. Afterward, the art piece becomes part of Sally's (and Mary's) profile, and she begins to see that she doesn't have to be defined by her traumatic story; instead, her art creations can define her.</h6>
             </p>
+            <br/>
+            <br/>
 
             <!--IDEA THREE-->
             <h3 class="ideas">Idea Three</h3>
             <h4>Race confessions: a platform to anonymously discuss hard topics</h4> 
             <p>
-               Based on <a href="https://www.facebook.com/pages/Stanford-Race-Confessions/1446093278960370">Stanford Race Confessions</a>, this platform is designed to discuss race and ethnicity questions that seem to difficult to ask.
+               Based on <a href="https://www.facebook.com/pages/Stanford-Race-Confessions/1446093278960370">Stanford Race Confessions</a>, this platform is designed to discuss race and ethnicity questions that are too difficult to ask. The product would be based on a point system of some sort, where you spend points by posting questions and +1'ing them, and you gain points by participating in discussions.
             </p>
             <p> 
                <div class="header row">
-               <br/>
-               <div class="full columns">
-                  <img class="photo" src="images/m2/race_brainstorm_1.jpg" style="cursor:pointer" onclick="showImage('images/m2/race_brainstorm_1.jpg');"/>   
-               </div>
-               <div id="largeImgPanel" onclick="hideMe(this);">
-                  <img id="largeImg" style="height: 100%; margin: 0; padding: 0;" />
-               </div>
+                  <br/>
+                  <div class="full columns">
+                     <img class="photo" src="images/m2/race_brainstorm_1.jpg" style="cursor:pointer" onclick="showImage('images/m2/race_brainstorm_1.jpg');"/>  
+                  </div>
+                  <div id="largeImgPanel" onclick="hideMe(this);">
+                     <img id="largeImg" style="height: 100%; margin: 0; padding: 0;" />
+                  </div>
                </div>
             </p>
             <p> 
                <div class="header row">
-               <br/>
-               <div class="full columns">
-                  <img class="photo" src="images/m2/race_brainstorm_2.jpg" style="cursor:pointer" onclick="showImage('images/m2/race_brainstorm_2.jpg');"/>   
-               </div>
-               <div id="largeImgPanel" onclick="hideMe(this);">
-                  <img id="largeImg" style="height: 100%; margin: 0; padding: 0;" />
-               </div>
+                  <br/>
+                  <div class="full columns">
+                     <img class="photo" src="images/m2/race_brainstorm_2.jpg" style="cursor:pointer" onclick="showImage('images/m2/race_brainstorm_2.jpg');"/>   
+                  </div>
+                  <div id="largeImgPanel" onclick="hideMe(this);">
+                     <img id="largeImg" style="height: 100%; margin: 0; padding: 0;" />
+                  </div>
+                  <h5>Brainstorming around the space, the degrees of connections, topics, and more</h5>
                </div>
             </p> 
             <p> 
                <div class="header row">
-               <br/>
-               <div class="full columns">
-                  <img class="photo" src="images/m2/race.jpg" style="cursor:pointer" onclick="showImage('images/m2/race.jpg');"/>   
-               </div>
-               <div id="largeImgPanel" onclick="hideMe(this);">
-                  <img id="largeImg" style="height: 100%; margin: 0; padding: 0;" />
-               </div>
+                  <br/>
+                  <div class="full columns">
+                     <img class="photo" src="images/m2/race.jpg" style="cursor:pointer" onclick="showImage('images/m2/race.jpg');"/>   
+                  </div>
+                  <div id="largeImgPanel" onclick="hideMe(this);">
+                     <img id="largeImg" style="height: 100%; margin: 0; padding: 0;" />
+                  </div>
+                  <h5>Final storyboard for Idea #3</h5>
+                  <h6>You start by posting a question, such as what the appropriate term for Bob's race. Others can +1 your question, whether they're also curious or would like to offer their own opinion about the issue. Everyone who +1's the question can join in a virtual chatroom with his or her own avatar that they can move around and seat at a table with the others. Here, they can discuss the question, which might lead them to other interesting discussions. If the discussion gets stale, the product will offer prompts, such as by showing pre-recorded user-generated stories about racial issues. Finally, the participants leave with a more culturally-sensitive perspective and greater confidence about the topic. </h6>
                </div>
             </p>
          </p>
