@@ -68,40 +68,111 @@
                </p>
             </div>
             <h3>Storyboarding</h3>
-         <p>
-            <div class="header row">
-               <br/>
-               <h3 class="ideas">Idea One</h3>
-               <h4>Pass it on: a platform for creating teaching chains</h4>
-               <div class="full columns">
-                  <img class="photo" src="images/teach.jpg" style="cursor:pointer" onclick="showImage('images/teach.jpg');"/>   
+            <!--IDEA ONE-->
+            <h3 class="ideas">Idea One</h3>
+            <h4>Pass it on: a platform for creating teaching chains</h4>
+            <p>
+               Designed as a supplement to classroom learning, a teaching chain is when students teach other students via live broadcast and then those students go on to teach more students.
+               We imagine the motivation to start when a student becomes confused with a topic in the classroom. The student then posts a request for a lesson in the topic on the platform. The platform
+               supports fellows students to respond positively to these requests and facilitates the creation of a small teaching circle. In this circle, the original 
+               student can learn via a brief lesson and then follow-up by re-teaching the original lesson (maybe in a new format) to re-confirm his learning. From these two lessons, we have the beginning of a teaching chain. 
+               Our storyboard conveys this interaction from classroom to platform to creation of teaching chains.
+            </p>
+            <p>
+               We imagine the crux of the social communication to be in the small group when teaching occurs and there are innovative ways how to present material in a compelling manner. While we believe the idea of teaching chains is 
+               interesting and necessary, we believe online education is a beast of an interaction to try to facilitate (especially since there are many, many companies focused purely on solving it).
+            </p>
+            <p>
+               <div class="header row">
+                  <br/>
+                  
+                  <div class="full columns">
+                     <img class="photo" src="images/m2/sb3_1.jpg" style="cursor:pointer" onclick="showImage('images/m2/sb3_1.jpg');"/>   
+                  </div>
+                  <div id="largeImgPanel" onclick="hideMe(this);">
+                     <img id="largeImg" style="height: 100%; margin: 0; padding: 0;" />
+                  </div>
                </div>
-               <div id="largeImgPanel" onclick="hideMe(this);">
-                  <img id="largeImg" style="height: 100%; margin: 0; padding: 0;" />
+            </p>
+            <p>
+               <div class="header row">
+                  <br/>
+                  
+                  <div class="full columns">
+                     <img class="photo" src="images/m2/teach.jpg" style="cursor:pointer" onclick="showImage('images/m2/teach.jpg');"/>   
+                  </div>
+                  <div id="largeImgPanel" onclick="hideMe(this);">
+                     <img id="largeImg" style="height: 100%; margin: 0; padding: 0;" />
+                  </div>
                </div>
-            </div>
-            <div class="header row">
-               <br/>
-               <h3 id="idea_two" class="ideas">Idea Two</h3>
+            </p>
+
+            <!--IDEA TWO-->
+            <h3 id="idea_two" class="ideas">Idea Two</h3>
                <h4>This is my story: a platform for overcoming negative experiences</h4>
-               <div class="full columns">
-                  <img class="photo" src="images/drawing.jpg" style="cursor:pointer" onclick="showImage('images/drawing.jpg');"/>   
-               </div>
-               <div id="largeImgPanel" onclick="hideMe(this);">
-                  <img id="largeImg" style="height: 100%; margin: 0; padding: 0;" />
-               </div>
-            </div>
+            <p>
+               Designed to be a safe haven for women overcoming sexual assault, we imagine this platform to be a place to where women can come share their stories and connect over creating art together.
+            </p>
+            <p>
                <div class="header row">
                <br/>
-               <h3 class="ideas">Idea Three</h3>
-               <h4>Race confessions: a platform to anonymously discuss hard topics</h4>
                <div class="full columns">
-                  <img class="photo" src="images/race.jpg" style="cursor:pointer" onclick="showImage('images/race.jpg');"/>   
+                  <img class="photo" src="images/m2/sierra_brainstorming.jpg" style="cursor:pointer" onclick="showImage('images/m2/sierra_brainstorming.jpg');"/>   
                </div>
                <div id="largeImgPanel" onclick="hideMe(this);">
                   <img id="largeImg" style="height: 100%; margin: 0; padding: 0;" />
                </div>
-            </div>
+            </p>
+            <p>
+               <div class="header row">
+               <br/>
+               <div class="full columns">
+                  <img class="photo" src="images/m2/drawing.jpg" style="cursor:pointer" onclick="showImage('images/m2/drawing.jpg');"/>   
+               </div>
+               <div id="largeImgPanel" onclick="hideMe(this);">
+                  <img id="largeImg" style="height: 100%; margin: 0; padding: 0;" />
+               </div>
+            </p>
+
+            <!--IDEA THREE-->
+            <h3 class="ideas">Idea Three</h3>
+            <h4>Race confessions: a platform to anonymously discuss hard topics</h4> 
+            <p>
+               Based on <a href="https://www.facebook.com/pages/Stanford-Race-Confessions/1446093278960370">Stanford Race Confessions</a>, this platform is designed to discuss race and ethnicity questions that seem to difficult to ask.
+            </p>
+            <p> 
+               <div class="header row">
+               <br/>
+               <div class="full columns">
+                  <img class="photo" src="images/m2/race_brainstorm_1.jpg" style="cursor:pointer" onclick="showImage('images/m2/race_brainstorm_1.jpg');"/>   
+               </div>
+               <div id="largeImgPanel" onclick="hideMe(this);">
+                  <img id="largeImg" style="height: 100%; margin: 0; padding: 0;" />
+               </div>
+               </div>
+            </p>
+            <p> 
+               <div class="header row">
+               <br/>
+               <div class="full columns">
+                  <img class="photo" src="images/m2/race_brainstorm_2.jpg" style="cursor:pointer" onclick="showImage('images/m2/race_brainstorm_2.jpg');"/>   
+               </div>
+               <div id="largeImgPanel" onclick="hideMe(this);">
+                  <img id="largeImg" style="height: 100%; margin: 0; padding: 0;" />
+               </div>
+               </div>
+            </p> 
+            <p> 
+               <div class="header row">
+               <br/>
+               <div class="full columns">
+                  <img class="photo" src="images/m2/race.jpg" style="cursor:pointer" onclick="showImage('images/m2/race.jpg');"/>   
+               </div>
+               <div id="largeImgPanel" onclick="hideMe(this);">
+                  <img id="largeImg" style="height: 100%; margin: 0; padding: 0;" />
+               </div>
+               </div>
+            </p>
          </p>
          </div>
       </article>
