@@ -118,6 +118,9 @@
             <p>
                Designed to be a safe haven for women overcoming sexual assault, we imagine this platform to be a place to where women can come share their stories and connect over creating art together. There would likely be a moderator to approve new users who want to actively engage in the site and sign-up.
             </p>
+            <p>Given the potential difficulties of user testing, we're still exploring other topics, such as for death of parents, abortions, embarrassing stories, and other events that you might want
+               to discuss with someone in a similar situation. We're also considering a more light-hearted approach, like 'stories of physical scars', but believe this would lead to a very different approach
+               to the project; thus, we'd like to stick with something that is at least somewhat upsetting, embarrassing, etc.</p>
             <p>
                <div class="header row">
                <br/>
