@@ -150,6 +150,18 @@
             <p>
             When Sally first joins the site, she records a story to share. At the time, this is all the site know about Sally, mirroring her own struggle with being defined by the story of her assault. Then Mary hears the story. Sally's story compells Mary to reach out and share her own pre-recorded story. From there, Mary and Sally can collaborate in an art therapy-like session online, in which there will also be an audio stream to allow conversation. Afterward, the art piece becomes part of Sally's (and Mary's) profile, and she begins to see that she doesn't have to be defined by her traumatic story; instead, her art creations can define her.
             </p>
+            <p>
+               <div class="header row">
+               <br/>
+               <div class="full columns">
+                  <img class="photo" src="images/m2/art.jpg" style="cursor:pointer" onclick="showImage('images/m2/art.jpg');"/>   
+               </div>
+               <div id="largeImgPanel" onclick="hideMe(this);">
+                  <img id="largeImg" style="height: 100%; margin: 0; padding: 0;" />
+               </div>
+               <h5>Art created during our skit</h5>
+               </div>   
+            </p>
             <br/>
             <br/>
 
