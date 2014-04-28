@@ -33,8 +33,9 @@
          <nav id="nav-wrap" class="cf">
             <ul id="menu">
                <li class="current"><a href="index.php">Home</a></li>
-               <li><a href="m1.php">Milestone 1</a></li>
-               <li><a href="m2.php">Milestone 2</a></li>
+               <li><a href="m1.php">Milestone One</a></li>
+               <li><a href="m2.php">Milestone Two</a></li>
+               <li><a href="m3.php">Milestone Three</a></li>
             </ul> <!-- end #menu -->
          </nav>
       </header>
