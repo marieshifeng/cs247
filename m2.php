@@ -58,7 +58,7 @@
       <!-- latest article
       ================================================== -->
       <article id="latest-article" class="container">
-         <h2><a href="#">Milestone Two</a></h2>
+         <h2><a href="#">Milestone Two: Storyboarding</a></h2>
          <p class="post-info">by <span><a href="index.php">Team One</a></span></p>
          <div class="dcontent cf">
             <div class="post-meta">
@@ -67,7 +67,6 @@
                   <span class="dyear">2014</span>
                </p>
             </div>
-            <h3>Storyboarding</h3>
             <!--IDEA ONE-->
             <h3 class="ideas">Idea One</h3>
             <h4>Pass it on: a platform for creating teaching chains</h4>
@@ -91,7 +90,7 @@
                   <div id="largeImgPanel" onclick="hideMe(this);">
                      <img id="largeImg" style="height: 100%; margin: 0; padding: 0;" />
                   </div>
-                  <h5>Marie gets us started on the storyboard.</h5>
+                  <h5>Marie gets us started on the storyboard</h5>
                </div>
             </p>
             <p>
@@ -104,10 +103,11 @@
                   <div id="largeImgPanel" onclick="hideMe(this);">
                      <img id="largeImg" style="height: 100%; margin: 0; padding: 0;" />
                   </div>
-                  <h5>Final storyboard for Idea #1</h5>
-                  <h6>We debated and explored different different starting points, and decided that we wanted it to start when a student becomes confused with a topic in the classroom. The student then posts a request for a lesson in the topic on our platform. The platform allows a fellow student, teacher, or anyone else to offer a brief lesson around that topic, which other students could also join: a small teaching circle. In this circle, the original student can learn via a brief lesson and then follow-up by re-teaching the original lesson (maybe in a new format) to re-confirm his learning. From these two lessons, we have the beginning of a teaching chain. The final panel demonstrates that you can compare different approaches to teaching a topic, if you want to choose what works best for you as a student or in order to improve your teaching. 
-                  </h6>
+                  <h5>Final storyboard for Idea One</h5>
                </div>
+            </p>
+            <p>
+            We debated and explored different different starting points, and decided that we wanted it to start when a student becomes confused with a topic in the classroom. The student then posts a request for a lesson in the topic on our platform. The platform allows a fellow student, teacher, or anyone else to offer a brief lesson around that topic, which other students could also join: a small teaching circle. In this circle, the original student can learn via a brief lesson and then follow-up by re-teaching the original lesson (maybe in a new format) to re-confirm his learning. From these two lessons, we have the beginning of a teaching chain. The final panel demonstrates that you can compare different approaches to teaching a topic, if you want to choose what works best for you as a student or in order to improve your teaching. 
             </p>
             <br/>
             <br/>
@@ -141,8 +141,10 @@
                <div id="largeImgPanel" onclick="hideMe(this);">
                   <img id="largeImg" style="height: 100%; margin: 0; padding: 0;" />
                </div>
-               <h5>Final storyboard for Idea #2</h5>
-               <h6>When Sally first joins the site, she records a story to share. At the time, this is all the site know about Sally, mirroring her own struggle with being defined by the story of her assault. Then Mary hears the story. Sally's story compells Mary to reach out and share her own pre-recorded story. From there, Mary and Sally can collaborate in an art therapy-like session online, in which there will also be an audio stream to allow conversation. Afterward, the art piece becomes part of Sally's (and Mary's) profile, and she begins to see that she doesn't have to be defined by her traumatic story; instead, her art creations can define her.</h6>
+               <h5>Final storyboard for Idea Two</h5>
+            </p>
+            <p>
+            When Sally first joins the site, she records a story to share. At the time, this is all the site know about Sally, mirroring her own struggle with being defined by the story of her assault. Then Mary hears the story. Sally's story compells Mary to reach out and share her own pre-recorded story. From there, Mary and Sally can collaborate in an art therapy-like session online, in which there will also be an audio stream to allow conversation. Afterward, the art piece becomes part of Sally's (and Mary's) profile, and she begins to see that she doesn't have to be defined by her traumatic story; instead, her art creations can define her.
             </p>
             <br/>
             <br/>
@@ -156,9 +158,13 @@
             <p> 
                <div class="header row">
                   <br/>
-                  <div class="full columns">
+                  <div class="half columns">
                      <img class="photo" src="images/m2/race_brainstorm_1.jpg" style="cursor:pointer" onclick="showImage('images/m2/race_brainstorm_1.jpg');"/>  
                   </div>
+                  <div class="half columns">
+                     <img class="photo" src="images/m2/race_brainstorm_2.jpg" style="cursor:pointer" onclick="showImage('images/m2/race_brainstorm_2.jpg');"/>   
+                  </div>
+                  <h5>Brainstorming around the space, the degrees of connections, topics, and more</h5>
                   <div id="largeImgPanel" onclick="hideMe(this);">
                      <img id="largeImg" style="height: 100%; margin: 0; padding: 0;" />
                   </div>
@@ -168,26 +174,16 @@
                <div class="header row">
                   <br/>
                   <div class="full columns">
-                     <img class="photo" src="images/m2/race_brainstorm_2.jpg" style="cursor:pointer" onclick="showImage('images/m2/race_brainstorm_2.jpg');"/>   
-                  </div>
-                  <div id="largeImgPanel" onclick="hideMe(this);">
-                     <img id="largeImg" style="height: 100%; margin: 0; padding: 0;" />
-                  </div>
-                  <h5>Brainstorming around the space, the degrees of connections, topics, and more</h5>
-               </div>
-            </p> 
-            <p> 
-               <div class="header row">
-                  <br/>
-                  <div class="full columns">
                      <img class="photo" src="images/m2/race.jpg" style="cursor:pointer" onclick="showImage('images/m2/race.jpg');"/>   
                   </div>
                   <div id="largeImgPanel" onclick="hideMe(this);">
                      <img id="largeImg" style="height: 100%; margin: 0; padding: 0;" />
                   </div>
-                  <h5>Final storyboard for Idea #3</h5>
-                  <h6>You start by posting a question, such as what the appropriate term for Bob's race. Others can +1 your question, whether they're also curious or would like to offer their own opinion about the issue. Everyone who +1's the question can join in a virtual chatroom with his or her own avatar that they can move around and seat at a table with the others. Here, they can discuss the question, which might lead them to other interesting discussions. If the discussion gets stale, the product will offer prompts, such as by showing pre-recorded user-generated stories about racial issues. Finally, the participants leave with a more culturally-sensitive perspective and greater confidence about the topic. </h6>
+                  <h5>Final storyboard for Idea Three</h5>
                </div>
+            </p>
+            <p>
+               You start by posting a question, such as what the appropriate term for Bob's race. Others can +1 your question, whether they're also curious or would like to offer their own opinion about the issue. Everyone who +1's the question can join in a virtual chatroom with his or her own avatar that they can move around and seat at a table with the others. Here, they can discuss the question, which might lead them to other interesting discussions. If the discussion gets stale, the product will offer prompts, such as by showing pre-recorded user-generated stories about racial issues. Finally, the participants leave with a more culturally-sensitive perspective and greater confidence about the topic. </h6>
             </p>
          </p>
          </div>

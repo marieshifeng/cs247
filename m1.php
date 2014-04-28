@@ -58,7 +58,7 @@
       <!-- latest article
       ================================================== -->
       <article id="latest-article" class="container">
-         <h2><a href="#">Milestone One</a></h2>
+         <h2><a href="#">Milestone One: Brainstorming</a></h2>
          <p class="post-info">by <span><a href="index.php">Team One</a></span></p>
          <div class="dcontent cf">
             <div class="post-meta">
@@ -67,7 +67,6 @@
                   <span class="dyear">2014</span>
                </p>
             </div>
-            <h3>Brainstorming</h3>
             <p>Like the classic racing film, our brainstorm was fast and furious. We started the process by discussing some common interests including social activism, creative expression, getting under-represented populations into
             STEM, kids, parents, and more. We continued to brainstorm at this high-level for a bit, shown with the purple
             ideas below. In the second image, you can also see connections we drew between ideas or connections to
