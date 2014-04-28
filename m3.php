@@ -68,7 +68,11 @@
                   <span class="dyear">2014</span>
                </p>
             </div>
-            <iframe src="https://docs.google.com/presentation/d/1n9qjG2xXNbxpZAVDKW5InW1KOFF3wcsI4eJB99UcSGo/embed?start=false&loop=true&delayms=3000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> 
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <iframe src="https://docs.google.com/presentation/d/1n9qjG2xXNbxpZAVDKW5InW1KOFF3wcsI4eJB99UcSGo/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
          </div>
       </article>
    <!-- footer
