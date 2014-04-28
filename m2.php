@@ -77,8 +77,8 @@
             <p>
                We imagine the crux of the social communication to be in the small group lessons where we would provide tools to present material in a compelling innovative
                manner. While we believe the idea of teaching chains is interesting and necessary, we believe online education is a beast of an interaction to try to facilitate 
-               (especially since there are many, many companies focused purely on solving it). We have played with the idea of restricting the site to a particular subject, to 
-               allow us to design the appropriate tools - some ideas are math, physics, or more physical topics, like gardening or plumbing. Given the complexity of this task of providing tools for a great lesson, we might also choose to dive more deeply into the connection piece: how do you find the right teacher? How do you ensure you teach your own material clearly? How do you make that connection? Why are you compelled to teach, and not just learn?
+               (especially when there are many, many companies focused purely on solving it). We have played with the idea of restricting the site to a particular subject, to 
+               allow us to design the appropriate tools - some ideas are math, physics, or more physical topics, like gardening or plumbing. Given the complexity of this task of providing tools for a great lesson, we might also choose to dive more deeply into the connection piece: How do you find the right teacher? How do you ensure you teach your own material clearly? How do you make that connection? Why are you compelled to teach, and not just learn?
             </p>
             <p>
                <div class="header row">
@@ -95,8 +95,7 @@
             </p>
             <p>
                <div class="header row">
-                  <br/>
-                  
+                  <br/>            
                   <div class="full columns">
                      <img class="photo" src="images/m2/teach.jpg" style="cursor:pointer" onclick="showImage('images/m2/teach.jpg');"/>   
                   </div>
@@ -107,7 +106,7 @@
                </div>
             </p>
             <p>
-            We debated and explored different different starting points, and decided that we wanted it to start when a student becomes confused with a topic in the classroom. The student then posts a request for a lesson in the topic on our platform. The platform allows a fellow student, teacher, or anyone else to offer a brief lesson around that topic, which other students could also join: a small teaching circle. In this circle, the original student can learn via a brief lesson and then follow-up by re-teaching the original lesson (maybe in a new format) to re-confirm his learning. From these two lessons, we have the beginning of a teaching chain. The final panel demonstrates that you can compare different approaches to teaching a topic, if you want to choose what works best for you as a student or in order to improve your teaching. 
+            We debated and explored different different starting points, and decided that we wanted to begin in the classroom when a student becomes confused with a topic in the classroom. The student then posts a request for a lesson in the topic on our platform. The platform allows a fellow student, teacher, or anyone else to offer a brief lesson around that topic, which other students could also join: a small teaching circle. In this circle, the original student can learn via a brief lesson and then follow-up by re-teaching the original lesson (maybe in a new format) to re-confirm his learning. From these two lessons, we have the beginning of a teaching chain. The final panel demonstrates that you can compare different approaches to teaching a topic, if you want to choose what works best for you as a student or in order to improve your teaching. 
             </p>
             <br/>
             <br/>
@@ -118,9 +117,11 @@
             <p>
                Designed to be a safe haven for women overcoming sexual assault, we imagine this platform to be a place to where women can come share their stories and connect over creating art together. There would likely be a moderator to approve new users who want to actively engage in the site and sign-up.
             </p>
-            <p>Given the potential difficulties of user testing, we're still exploring other topics, such as for death of parents, abortions, embarrassing stories, and other events that you might want
-               to discuss with someone in a similar situation. We're also considering a more light-hearted approach, like 'stories of physical scars', but believe this would lead to a very different approach
-               to the project; thus, we'd like to stick with something that is at least somewhat upsetting, embarrassing, etc.</p>
+            <p>
+               Given the potential difficulties of user testing, we're still exploring other topics, such as death of parents, abortions, embarrassing stories, and other events that you might want
+               to discuss with someone in a similar situation. We're also considering a more light-hearted approach, like stories of physical scars, but believe this would lead to a very different approach
+               to the project; thus, we'd like to focus on difficult experiences that are often hard to discuss.
+            </p>
             <p>
                <div class="header row">
                <br/>
@@ -131,6 +132,7 @@
                   <img id="largeImg" style="height: 100%; margin: 0; padding: 0;" />
                </div>
                <h5>Getting started</h5>
+               </div>   
             </p>
             <p>
                <div class="header row">
@@ -142,6 +144,7 @@
                   <img id="largeImg" style="height: 100%; margin: 0; padding: 0;" />
                </div>
                <h5>Final storyboard for Idea Two</h5>
+               </div>
             </p>
             <p>
             When Sally first joins the site, she records a story to share. At the time, this is all the site know about Sally, mirroring her own struggle with being defined by the story of her assault. Then Mary hears the story. Sally's story compells Mary to reach out and share her own pre-recorded story. From there, Mary and Sally can collaborate in an art therapy-like session online, in which there will also be an audio stream to allow conversation. Afterward, the art piece becomes part of Sally's (and Mary's) profile, and she begins to see that she doesn't have to be defined by her traumatic story; instead, her art creations can define her.
