@@ -131,7 +131,7 @@
                <div id="largeImgPanel" onclick="hideMe(this);">
                   <img id="largeImg" style="height: 100%; margin: 0; padding: 0;" />
                </div>
-               <h5>Getting started</h5>
+               <h5>Sierra and Natasha getting started</h5>
                </div>   
             </p>
             <p>
