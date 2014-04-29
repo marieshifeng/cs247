@@ -44,7 +44,7 @@
       <article id="latest-article" class="container">
          <h2><a href="#latest-article">Our Team</a></h2>
          <div class="dcontent cf">
-            On a fateful day in April, Marie, Sierra, Natasha bonded over a mutual love of <a href="http://www.google.com/fonts/specimen/Lobster">
+            On a fateful day in April, Marie, Sierra, Natasha bonded over a mutual love of <a class="lobster" href="http://www.google.com/fonts/specimen/Lobster">
             lobster font</a> and quickly became Team One. Based in Palo Alto, Team One is dedicated to connecting people through rich social communication. Recently, Team One announced a one dollar round of seed financing from a dozen top venture capital firms and angel investors. Join us in our journey from stealth mode to IPO.          
          </div>
          </br>

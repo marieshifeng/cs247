@@ -45,3 +45,12 @@
 .ideas{
     color: #1e83b6;
 }
+
+@font-face {
+    font-family: lobster; 
+    src: url('fonts/lobster.otf'); 
+}
+
+.lobster {
+    font-family: lobster;
+}
