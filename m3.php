@@ -72,9 +72,7 @@
             <br/>
             <br/>
             <br/>
-            <iframe src="https://docs.google.com/presentation/d/1n9qjG2xXNbxpZAVDKW5InW1KOFF3wcsI4eJB99UcSGo/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-         </div>
-      </article>
+<iframe src="https://docs.google.com/presentation/d/1PCVWsZ1bx7iLljm0xWAoos65RqvkNSiCJnfgutqiVq0/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>      </article>
    <!-- footer
    ================================================== -->
    <footer class="container">
