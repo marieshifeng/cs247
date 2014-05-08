@@ -111,8 +111,9 @@
             <h4>What we have done:</h4>
             <ul>
                <li>Built a basic listening gallery populated with public stories of experience and support</li>
-               <li>Built a basic recording mechanism to allow users to submit their story</li>
+               <li>Built a basic recording mechanism to allow users to submit their story (though we don't yet have the funnel to display it on the site)</li>
                <li>Prettified our site to the point where the UI will not be a distraction for our next round of user testing</li>
+               <li>Spent a lot of time doing the initial groundwork of the site and still dealing with some Heroku problems</li>
             </ul>
             <h4>What we need to do:</h4>
             <ul>
