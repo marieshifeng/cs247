@@ -53,6 +53,7 @@
                <li class="current"><a href="m1.php">Milestone One</a></li>
                <li><a href="m2.php">Milestone Two</a></li>
                <li><a href="m3.php">Milestone Three</a></li>
+               <li><a href="m4.php">Milestone Four</a></li>
             </ul> <!-- end #menu -->
          </nav>
       </header>
