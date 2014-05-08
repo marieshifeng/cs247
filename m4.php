@@ -107,7 +107,7 @@
                of silliness to balance such a somber topic.
             </p>
             <h3>Implementation</h3>
-            <a href="http://finalproject247.herokuapp.com/">Our platform can be found here.<a>
+            <a href="http://finalproject247.herokuapp.com/">Our platform can be found here.</a>
             <h4>What we have done:</h4>
             <ul>
                <li>Built a basic listening gallery populated with public stories of experience and support</li>
