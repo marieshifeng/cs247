@@ -123,6 +123,7 @@
                <li>Listening to stories may cause trauma trigger</li>
                <li>Positive feedback from expert consults (SARA, researchers) about need for online support space</li>
                <li>Concern about trolls raised by users - but we're already planning on moderating first access</li>
+               <li>Idea to push creative aspect: different ways to share stories - handwritten notes?</li>
             </ul>
             <h3>Discussion</h3>
             <p>The reception has been pretty good for our site, and this week we learned a lot about how to make this is a safe
