@@ -92,7 +92,7 @@
                   </ul>
                </ul>
             <h3>Methods</h3>
-            <p>To evaluate our questions, we'll be conducting qualitative user studies.
+            <p>To evaluate our questions, we'll be conducting qualitative user studies.</p>
             <ul>
                <li>Recruitment</li>
                <ul>
@@ -116,8 +116,53 @@
                </ul>
             </ul>
             <h3>Results</h3>
+            <p>We got some great feedback from both survivors and our expert consultants</p>
+            <ul>
+               <li>Telling a story is still awkward; users prefer to have a conversation with us</li>
+               <li>Audio part of story is still a concern - will they recognize me?</li>
+               <li>Listening to stories may cause trauma trigger</li>
+               <li>Positive feedback from expert consults (SARA, researchers) about need for online support space</li>
+               <li>Concern about trolls raised by users - but we're already planning on moderating first access</li>
+            </ul>
             <h3>Discussion</h3>
+            <p>The reception has been pretty good for our site, and this week we learned a lot about how to make this is a safe
+               space. This includes adding guidelines for use, trigger warnings, and links to resources. We're excited to see
+               this idea become a reality. Unfortunately, we also are still struggling with finding users (we know, we were 
+               warned), which is why we started testing with some experts about what would make survivors feel more comfortable.
+               We're also been talking a lot about the possibility of testing this is the wild, so users can test in a more
+               comfortable and anonymous way. We think the current state of our site was the biggest issue with testing, in that
+               we still can't deliver a realistic experience to get feedback on.</p>
             <h3>Implications</h3> 
+            <p>We've really started to see how this will work. After this week's testing, we plan to:</p>
+            <ul>
+               <li>Gallery</li>
+               <ul>
+                  <li>Add "Trigger warning"</li>
+                  <li>Create separate galleries - public and for users only (based on user privacy choice)</li>
+                  <li>Add search options/filter</li>
+               </ul>
+               <li>Recording your story</li>
+               <ul>
+                  <li>Add prompts</li>
+                  <li>Consider adding video prompt from counselor to make people comfortable</li>
+                  <li>Voice alteration</li>
+                  <li>Moderator will approve membership based on story submission</li>
+                  <li>Add tagging option if you record a more graphic story</li>
+               </ul>
+               <li>Drawing space</li>
+               <ul>
+                  <li>Add link to resources page in case conversation gets too intense</li>
+                  <li>Stamps are fun - add them</li>
+               </ul>
+               <li>General</li>
+               <ul>
+                  <li>Add link to resources: CAPS, Bridge, YWCA, SARA</li>
+                  <li>Add 'Report Abuse' link</li>
+                  <li>Add messaging about suggested use of site: no full names, tell your own story, etc</li>
+                  <li>Recruitment tip: Facebook poster to your page (not ad)</li>
+                  <li>SARA is open to advertising site via counselors (once it's built and anonymous)</li>
+               </ul>
+            </ul>
          </div>
       </article>
    <!-- footer
