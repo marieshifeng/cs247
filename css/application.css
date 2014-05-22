@@ -45,3 +45,12 @@
 .ideas{
     color: #1e83b6;
 }
+
+table {
+    border: 1px solid black;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 7px;
+}
