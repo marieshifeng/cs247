@@ -72,12 +72,33 @@
                   <span class="dyear">2014</span>
                </p>
             </div>
-            <h4>What's been happening this past week</h4>
-            <h3>Introduction</h3>
+            <h3>What's been happening this past week</h3>
+            <p>You know how we said we had a real functional website last week? Well, it turns out it had a few bugs, and the end of the quarter was approaching, so we drastically prioritized features. The end result? A whole new website! <strong>Check it out at http://vincere.herokuapp.com</strong></p>
+            <p>It's still about connecting survivors of sexual assault and helping them "vincere" (overcome) the experience. The difference is that our product focuses on the 1:1 chat experience with the fun collaborative drawing piece of it. Features include:
+               <ul>
+                  <li>Welcome page to give you a better sense of what the product is all about</li>
+                  <li>A gallery of past drawings</li>
+                  <li>No more accounts - users get authenticated through repeated reminders about who the site is for, telling a short story about their experience, and clicking a button to confirm they understand what the chatroom is for</li>
+                  <li>Chat sessions, so at most 2 users can enter a room</li>
+                  <li>Collaborative drawing is still there, of course</li>
+                  <li>Resources page still there, too</li>
+               </ul>
+            </p>
+            <h3>Introduction to the user study</h3>
+            <p>Now that we finally have a fully functional site, we were able to do more thorough user testing, given that users no longer have to directly interact and expose themselves to us. They can do it in the privacy of their own home and remain anonyous. So our main driving questions were: would people visit? would they connect? would they come back?</p>
             <h3>Methods</h3>
+            <p>We recruited users through a combination of: putting flyers up on campus, asking the SARA office and Bridge to post to their communities, Facebook posts, emails to lists, direct requests to friends, Reddit posts, PM to Reddit users who had posted about sexual assault. (Is there anything we didn't try?)</p>
+            <p>Ultimately, we had 9 people submit the feedback form and officially participate in our study, though Google Analytics tells us that we actually had a few dozen unique visitors to the site.</p>
+            <p><a href="https://docs.google.com/forms/d/19FEq5Fmr95Du4eRdjp3Gsi1c9mxasBO1pdqD9Iy1nTU/viewform">You can review our survey and included consent form here.</a></p>
             <h3>Results</h3>
             <h3>Discussion</h3>
             <h3>Implications</h3> 
+            <p>User feedback was generally positive, but the main issue is that people are able to find each other. Our main focus over the next few days will be:
+               <ul>
+                  <li><strong>Facilitating connections</strong> - Ideas include: getting more users through more advertising, have tighter timeframes to visit, possibly add link to add to calendar, have a user be 'on call' in a drawing room, etc</li>
+                  <li><strong>Visual design</strong> - Meeting with a UI designer (her previous experience includes Yahoo!) to get feedback</li>
+               </ul>
+            </p>
          
          </div>
       </article>
