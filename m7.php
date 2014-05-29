@@ -63,7 +63,7 @@
       <!-- latest article
       ================================================== -->
       <article id="latest-article" class="container">
-         <h2><a href="#">Milestone Five: User Study II</a></h2>
+         <h2><a href="#">Milestone Seven: User Study II</a></h2>
          <p class="post-info">by <span><a href="index.php">Team One</a></span></p>
          <div class="dcontent cf">
             <div class="post-meta">
@@ -88,12 +88,13 @@
             <p>Now that we finally have a fully functional site, we were able to do more thorough user testing, given that users no longer have to directly interact and expose themselves to us. They can do it in the privacy of their own home and remain anonyous. So our main driving questions were: would people visit? would they connect? would they come back?</p>
             <h3>Methods</h3>
             <p>We recruited users through a combination of: putting flyers up on campus, asking the SARA office and Bridge to post to their communities, Facebook posts, emails to lists, direct requests to friends, Reddit posts, PM to Reddit users who had posted about sexual assault. (Is there anything we didn't try?)</p>
-            <p>Ultimately, we had 9 people submit the feedback form and officially participate in our study, though Google Analytics tells us that we actually had a few dozen unique visitors to the site.</p>
+            <p>Ultimately, we had 10 people submit the feedback form and officially participate in our study, though Google Analytics tells us that we actually had a few dozen unique visitors to the site.</p>
             <p><a href="https://docs.google.com/forms/d/19FEq5Fmr95Du4eRdjp3Gsi1c9mxasBO1pdqD9Iy1nTU/viewform">You can review our survey and included consent form here.</a></p>
             <h3>Results</h3>
+            <iframe src="https://docs.google.com/presentation/d/1DBoDY-7dh35JruZOUSWYiTFdq2itZJ4HEYU1idNMke4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="850" height="507" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
             <h3>Discussion</h3>
             <p>Testing was pretty good this week, but because no one was able to connect with another user in the wild, we still don't have a strong sense for whether the core focus of the product is working well.</p>
-            <p>Things we've changed over the course of the week, in response to testing: more targeted testing windows for users, adding a short intro prior to entering a chatroom as a small added push for the safety of survivors</p>
+            <p>Things we've changed over the course of the week, in response to testing: more targeted testing windows for users, adding a short intro prior to entering a chatroom as a small added push for the safety of survivors, more resources</p>
             <h3>Implications</h3> 
             <p>User feedback was generally positive, but the main issue is that people are able to find each other. Our main focus over the next few days will be:
                <ul>
