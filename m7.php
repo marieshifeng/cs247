@@ -92,6 +92,8 @@
             <p><a href="https://docs.google.com/forms/d/19FEq5Fmr95Du4eRdjp3Gsi1c9mxasBO1pdqD9Iy1nTU/viewform">You can review our survey and included consent form here.</a></p>
             <h3>Results</h3>
             <h3>Discussion</h3>
+            <p>Testing was pretty good this week, but because no one was able to connect with another user in the wild, we still don't have a strong sense for whether the core focus of the product is working well.</p>
+            <p>Things we've changed over the course of the week, in response to testing: more targeted testing windows for users, adding a short intro prior to entering a chatroom as a small added push for the safety of survivors</p>
             <h3>Implications</h3> 
             <p>User feedback was generally positive, but the main issue is that people are able to find each other. Our main focus over the next few days will be:
                <ul>
