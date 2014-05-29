@@ -15,8 +15,8 @@
    <link rel="stylesheet" href="css/layout.css">
    <link rel="stylesheet" href="css/application.css">
    <link rel="icon" 
-      type="image/png" 
-      href="/images/favicon.png" />
+   type="image/png" 
+   href="/images/favicon.png" />
    <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
    <![endif]-->
@@ -52,38 +52,36 @@
                <li><a href="index.php">Home</a></li>
                <li><a href="m1.php">Milestone 1</a></li>
                <li><a href="m2.php">Milestone 2</a></li>
-               <li class="current"><a href="m3.php">Milestone 3</a></li>
+               <li><a href="m3.php">Milestone 3</a></li>
                <li><a href="m4.php">Milestone 4</a></li>
                <li><a href="m5.php">Milestone 5</a></li>
                <li><a href="m6.php">Milestone 6</a></li>
-               <li><a href="m7.php">Milestone 7</a></li>
+               <li class="current"><a href="m7.php">Milestone 7</a></li>
             </ul> <!-- end #menu -->
          </nav>
       </header>
       <!-- latest article
       ================================================== -->
       <article id="latest-article" class="container">
-         <h2><a href="#">Milestone Three: Wizard-of-Oz Testing</a></h2>
+         <h2><a href="#">Milestone Five: User Study II</a></h2>
          <p class="post-info">by <span><a href="index.php">Team One</a></span></p>
          <div class="dcontent cf">
             <div class="post-meta">
-               <p class="dateinfo">1
+               <p class="dateinfo">29
                   <span class="dmonth">May</span>
                   <span class="dyear">2014</span>
                </p>
             </div>
-            <h4>Prototype One: a place to share stories about scars</h4>
-            <iframe src="https://docs.google.com/presentation/d/1GNn1FzEQinP8JDTsHvDe4myG2-g8MwJmR74EobncJus/embed?start=false&loop=false&delayms=3000" frameborder="0" width="850" height="507" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-            <br/>
-            <br/>
-            <h4>Prototype Two: a safe haven for those overcoming sexual assault</h4>
-            <iframe src="https://docs.google.com/presentation/d/128ltMyHtCSzqabXpdijEKtaxq-HFxZRWLqKW4c_-Y5I/embed?start=false&loop=false&delayms=3000" frameborder="0" width="850" height="507" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-            <br/>
-            <br/>
-             <h4>M3 final presentation</h4>
-            <iframe src="https://docs.google.com/presentation/d/1PCVWsZ1bx7iLljm0xWAoos65RqvkNSiCJnfgutqiVq0/embed?start=false&loop=false&delayms=3000" frameborder="0" width="850" height="507" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> 
-         </div>  
-<!-- footer
+            <h4>What's been happening this past week</h4>
+            <h3>Introduction</h3>
+            <h3>Methods</h3>
+            <h3>Results</h3>
+            <h3>Discussion</h3>
+            <h3>Implications</h3> 
+         
+         </div>
+      </article>
+   <!-- footer
    ================================================== -->
    <footer class="container">
       <!-- footer-bottom
