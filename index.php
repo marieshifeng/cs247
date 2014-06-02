@@ -49,7 +49,7 @@
       <article id="latest-article" class="container">
          <h2><a href="#latest-article">Our Project</a></h2>
          <div class="dcontent cf">
-            In the span of eight weeks, we created <a href="http://vincere.herokuapp.com/">Vincere</a>, a web application dedicated to connecting survivors of sexual assault.
+            In the span of eight weeks, we created <a href="http://vincere.herokuapp.com/">Vincere</a>, a web application dedicated to connecting survivors of sexual assault with drawing.
             <br><br>
          </div>
          <h2><a href="#latest-article">Our Team</a></h2>

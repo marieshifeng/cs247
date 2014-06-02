@@ -73,7 +73,7 @@
                   <span class="dyear">2014</span>
                </p>
             </div>
-            <h3>Vincere: A Web Application Dedicated to Connecting<br>Survivors of Sexual Assault</h3>
+            <h3>Vincere: A Web Application Dedicated to Connecting<br>Survivors of Sexual Assault with Drawing</h3>
             <a href="http://vincere.herokuapp.com/">Project website</a>&nbsp;&middot;&nbsp;
             <a href="https://github.com/marieshifeng/vincere">Source code</a>&nbsp;&middot;&nbsp;
             <a href="/">Poster</a>&nbsp;&middot;&nbsp; 
