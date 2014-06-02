@@ -40,12 +40,18 @@
                <li><a href="m5.php">Milestone 5</a></li>
                <li><a href="m6.php">Milestone 6</a></li>
                <li><a href="m7.php">Milestone 7</a></li>
+               <li><a href="m8.php">Milestone 8</a></li>
             </ul> <!-- end #menu -->
          </nav>
       </header>
       <!-- latest article
       ================================================== -->
       <article id="latest-article" class="container">
+         <h2><a href="#latest-article">Our Project</a></h2>
+         <div class="dcontent cf">
+            In the span of eight weeks, we created <a href="http://vincere.herokuapp.com/">Vincere</a>, a web application dedicated to connecting survivors of sexual assault.
+            <br><br>
+         </div>
          <h2><a href="#latest-article">Our Team</a></h2>
          <div class="dcontent cf">
             On a fateful day in April, Marie, Sierra, Natasha bonded over a mutual love of <a href="http://www.google.com/fonts/specimen/Lobster">

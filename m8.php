@@ -20,6 +20,23 @@
    <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
    <![endif]-->
+   <script type="text/javascript">
+      function showImage(imgName) {
+         document.getElementById('largeImg').src = imgName;
+         showLargeImagePanel();
+         unselectAll();
+      }
+      function showLargeImagePanel() {
+         document.getElementById('largeImgPanel').style.visibility = 'visible';
+      }
+      function unselectAll() {
+         if(document.selection) document.selection.empty();
+         if(window.getSelection) window.getSelection().removeAllRanges();
+      }
+      function hideMe(obj) {
+         obj.style.visibility = 'hidden';
+      }
+   </script>
 </head>
 <body>
    <div id="content-wrap">
@@ -32,49 +49,38 @@
          </hgroup>
          <nav id="nav-wrap" class="cf">
             <ul id="menu">
-               <li class="current"><a href="index.php">Home</a></li>
-               <li><a href="m1.php">Milestone One</a></li>
-               <li><a href="m2.php">Milestone Two</a></li>
-               <li><a href="m3.php">Milestone Three</a></li>
+               <li><a href="index.php">Home</a></li>
+               <li><a href="m1.php">Milestone 1</a></li>
+               <li><a href="m2.php">Milestone 2</a></li>
+               <li><a href="m3.php">Milestone 3</a></li>
+               <li><a href="m4.php">Milestone 4</a></li>
+               <li><a href="m5.php">Milestone 5</a></li>
+               <li><a href="m6.php">Milestone 6</a></li>
+               <li><a href="m7.php">Milestone 7</a></li>
+               <li class="current"><a href="m8.php">Milestone 8</a></li>
             </ul> <!-- end #menu -->
          </nav>
       </header>
       <!-- latest article
       ================================================== -->
       <article id="latest-article" class="container">
-         <h2><a href="#latest-article">Our Team</a></h2>
+         <h2><a href="#">Milestone Eight: Final Presentation</a></h2>
+         <p class="post-info">by <span><a href="index.php">Team One</a></span></p>
          <div class="dcontent cf">
-            On a fateful day in April, Marie, Sierra, Natasha <span class="lobster_title">bonded</span> over a mutual love of <a class="lobster_title" href="http://www.google.com/fonts/specimen/Lobster">
-            lobster font</a> and quickly became Team One. Based in Palo Alto, Team One is dedicated to connecting people through rich social communication. Recently, Team One announced a one dollar round of seed financing from a dozen top venture capital firms and angel investors. Join us in our journey from stealth mode to IPO.          
-         </div>
-         </br>
-            <div class="header row">
-              <br/>
-               <div id="marie" class="standard columns">
-                  <img class="photo" src="images/marie_color.jpg"/>
-                  <h3><a href="#marie">Marie F.</a></h3>
-                  <span class="sunet_id">mfeng90</span>
-                  <div class="dcontent cf">
-                     Marie is from Austin, Texas where the stars at night are big and bright. 
-                  </div>   
-               </div>
-               <div id="sierra" class="standard columns">
-                  <img class="photo" src="images/sierra_color.jpg"/>
-                  <h3><a href="#sierra">Sierra K-N.</a></h3>
-                  <span class="sunet_id">sierrakn</span>
-                  <div class="dcontent cf">
-                     Sierra is named after the Sierra Nevada Brewing Company, which is named after the mountains of Sierra Nevada.
-                  </div>
-               </div>
-               <div id="natasha" class="standard columns">
-                  <img class="photo" src="images/natasha_color.jpg"/>
-                  <h3><a href="#natasha">Natasha P.</a></h3>
-                  <span class="sunet_id">ncprats</span>
-                     <div class="dcontent cf">
-                        Natasha loves the Coffee House and probably can be found at the Coffee House right now.
-                     </div>
-               </div>
+            <div class="post-meta">
+               <p class="dateinfo">3
+                  <span class="dmonth">June</span>
+                  <span class="dyear">2014</span>
+               </p>
             </div>
+            <h3>Vincere: A Web Application Dedicated to Connecting<br>Survivors of Sexual Assault</h3>
+            <a href="http://vincere.herokuapp.com/">Project website</a>&nbsp;&middot;&nbsp;
+            <a href="https://github.com/marieshifeng/vincere">Source code</a>&nbsp;&middot;&nbsp;
+            <a href="/">Poster</a>&nbsp;&middot;&nbsp; 
+            <a href="https://docs.google.com/presentation/d/1-YcaahMuBzMxz4QDw_K88BIklrfqYZbcRTdfEhkMquI/pub?start=false&loop=false&delayms=3000/">Presentation</a>
+            <br><br><br>
+            </div>
+         </div>
       </article>
    <!-- footer
    ================================================== -->
