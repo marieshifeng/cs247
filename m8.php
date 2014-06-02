@@ -77,7 +77,7 @@
             <a href="http://vincere.herokuapp.com/">Project website</a>&nbsp;&middot;&nbsp;
             <a href="https://github.com/marieshifeng/vincere">Source code</a>&nbsp;&middot;&nbsp;
             <a href="/">Poster</a>&nbsp;&middot;&nbsp; 
-            <a href="https://docs.google.com/presentation/d/1-YcaahMuBzMxz4QDw_K88BIklrfqYZbcRTdfEhkMquI/pub?start=false&loop=false&delayms=3000/">Presentation</a>
+            <a href="https://docs.google.com/presentation/d/1-YcaahMuBzMxz4QDw_K88BIklrfqYZbcRTdfEhkMquI/edit?usp=sharing">Presentation</a>
             <br><br><br>
             </div>
          </div>
