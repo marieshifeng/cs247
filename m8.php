@@ -76,7 +76,7 @@
             <h3>Vincere: A Web Application Dedicated to Connecting<br>Survivors of Sexual Assault with Drawing</h3>
             <a href="http://vincere.herokuapp.com/">Project website</a>&nbsp;&middot;&nbsp;
             <a href="https://github.com/marieshifeng/vincere">Source code</a>&nbsp;&middot;&nbsp;
-            <a href="/">Poster</a>&nbsp;&middot;&nbsp; 
+            <a href="https://drive.google.com/file/d/0B7Y6MHhW1SE3QV81UnB3VmF2clJleG9MOXlSQmF4djdMVW1N/edit?usp=sharing">Poster</a>&nbsp;&middot;&nbsp; 
             <a href="https://docs.google.com/presentation/d/1-YcaahMuBzMxz4QDw_K88BIklrfqYZbcRTdfEhkMquI/edit?usp=sharing">Presentation</a>
             <br><br><br>
             </div>
